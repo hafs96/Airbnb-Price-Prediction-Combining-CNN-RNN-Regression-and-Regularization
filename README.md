@@ -64,7 +64,7 @@ The project follows these steps:
 ---
 
 ## 🚀 Installation
-1. Clone the repository:
+   -Clone the repository:
    ```bash
    git clone https://github.com/hafs96/Airbnb-Price-Prediction-Combining-CNN-RNN-Regression-and-Regularization.git
    cd airbnb-price-prediction
